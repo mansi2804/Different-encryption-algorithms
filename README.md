@@ -6,11 +6,11 @@ Program Features:
 – Permutation Cipher
    <br>
 3. Transposition ciphers
-<br>
+   <br>
 – Simple Transposition
-<br>
+   <br>
 – Double Transposition
-<br>
+   <br>
 5. Vigenere Cipher
 6. Different encryption algorithms (e.g., AES-128, DES, 3DES)
 7. Different encryption modes (e.g., ECB, CBC, CFB, OFB)
