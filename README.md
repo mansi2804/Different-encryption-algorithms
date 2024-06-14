@@ -1,9 +1,10 @@
 Program Features:
 1. Substitution cipher
+   <br>
 – Shift Cipher
-<br>
+   <br>
 – Permutation Cipher
-<br>
+   <br>
 3. Transposition ciphers
 <br>
 – Simple Transposition
