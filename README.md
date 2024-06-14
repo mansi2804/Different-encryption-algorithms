@@ -14,3 +14,5 @@ Program Features:
 5. Vigenere Cipher
 6. Different encryption algorithms (e.g., AES-128, DES, 3DES)
 7. Different encryption modes (e.g., ECB, CBC, CFB, OFB)
+
+Each combination of algorithm and mode offers unique strengths and considerations in terms of security and efficiency.
