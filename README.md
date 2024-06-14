@@ -1,10 +1,13 @@
 Program Features:
 1. Substitution cipher
+   <br>
 – Shift Cipher
+<br>
 – Permutation Cipher
-2. Transposition ciphers
+3. Transposition ciphers
+<br>
 – Simple Transposition
 – Double Transposition
-3. Vigenere Cipher
-4. Different encryption algorithms (e.g., AES-128, DES, 3DES)
-5. Different encryption modes (e.g., ECB, CBC, CFB, OFB)
+5. Vigenere Cipher
+6. Different encryption algorithms (e.g., AES-128, DES, 3DES)
+7. Different encryption modes (e.g., ECB, CBC, CFB, OFB)
